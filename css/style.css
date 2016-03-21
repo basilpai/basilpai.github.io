@@ -6,6 +6,8 @@ body{
 
 .mainNav ul{
   width: 1024px;
+  height: 768px;
+  padding: 0;
 }
 .mainNav li {
   list-type: none;
