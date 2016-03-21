@@ -12,7 +12,7 @@ body{
 .mainNav li {
   list-type: none;
   display: inline-block;
-  padding: 269px 47px;
+  padding: 269px 47px 0;
 }
 
 .mainNav img {
@@ -30,7 +30,7 @@ body{
   background-color: rgba(0,0,0,0.9);
   position: absolute;
   top: 50px;
-  right: 5px;
+  right: 45px;
   bottom: 30px;
   left: 45px;
   padding: 30px;
